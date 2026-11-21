@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <!-- Archive Box Body with Handle Cutout Slot -->
+  <path fill="#FFFFFF" fill-rule="evenodd" d="
+    M 328 396
+    H 696
+    A 46 46 0 0 1 742 442
+    V 714
+    A 46 46 0 0 1 696 760
+    H 328
+    A 46 46 0 0 1 282 714
+    V 442
+    A 46 46 0 0 1 328 396 Z
+
+    M 448 460
+    H 576
+    A 21 21 0 0 1 597 481
+    V 481
+    A 21 21 0 0 1 576 502
+    H 448
+    A 21 21 0 0 1 427 481
+    V 481
+    A 21 21 0 0 1 448 460 Z
+  "/>
+</svg>

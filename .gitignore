@@ -1,0 +1,16 @@
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj/
+xcuserdata/
+.DS_Store
+.env*
+/shots/
+*.store
+*.store-*
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.log
+*.err
